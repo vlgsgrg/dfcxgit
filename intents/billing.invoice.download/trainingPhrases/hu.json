@@ -1,0 +1,49 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "Hol találom a számlákat?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "Meg tudom nézni valahol a számláimat?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "Honnan tudom letölteni a számláimat?"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "Hol vannak a havi számlák?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "Hogyan tudom letölteni a számláimat?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "Hol a számlám?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "Tegnap vettem telefont és hűségcsomagot, hol láthatom a számlát.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  } ]
+}

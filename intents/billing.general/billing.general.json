@@ -1,0 +1,11 @@
+{
+  "name": "5e994400-c58d-4a17-9c4c-36b16b911b6a",
+  "displayName": "billing.general",
+  "priority": 500000,
+  "labels": [ {
+    "key": "sys-head",
+    "value": "sys-head"
+  } ],
+  "description": "This intent is triggered when the user has a generic billing question and we need further steering.",
+  "numTrainingPhrases": 9
+}

@@ -1,0 +1,83 @@
+{
+  "trainingPhrases": [ {
+    "id": "bc8980d9-ae2e-4407-9ba3-77a25433da84",
+    "parts": [ {
+      "text": "szép nap ugye",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "id": "5bad2149-514c-4c09-8830-75ea2f070d90",
+    "parts": [ {
+      "text": "Helló",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "id": "afd63c5c-35aa-4208-a5c1-3d4efa50a80a",
+    "parts": [ {
+      "text": "csak köszönni fogok",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "id": "732679a4-b72c-4b6e-90e2-b397c3e66397",
+    "parts": [ {
+      "text": "rég nem láttalak",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "id": "e1e8b388-c2a0-4fe1-875a-d43ed8da3bc7",
+    "parts": [ {
+      "text": "Szia",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "id": "953264fd-db33-4570-8a34-c790fb475ebb",
+    "parts": [ {
+      "text": "Halihó",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "id": "d31bd320-c9e0-43ea-810b-88cb920f9c9e",
+    "parts": [ {
+      "text": "üdvözlettel",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "id": "aff28311-07f0-4685-8ddf-c38465381652",
+    "parts": [ {
+      "text": "Szia ismét",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "id": "1cf4fda1-7421-4907-b752-1004f3abe26e",
+    "parts": [ {
+      "text": "Hé",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "id": "293fb4a6-6ce5-45f9-8994-a4b1ca3a9b2e",
+    "parts": [ {
+      "text": "egy jó nap",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  } ]
+}

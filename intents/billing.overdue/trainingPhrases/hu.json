@@ -1,0 +1,71 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "mennyi tartozásom van?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "tartozás",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "Érdeklődni szeretnék a fennálló tartozásomról."
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "a tartozásról akarok beszélni valakivel",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "A tartozásomat szeretném lekérdezni",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "Szeretnék érdeklődni a lejárt számláimról"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "Tartozás miatt kérdeznék",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "Számlatartozás van",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "Mennyivel tartozom?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "Számla elmaradás",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  } ]
+}

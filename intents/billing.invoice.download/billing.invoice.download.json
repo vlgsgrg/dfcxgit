@@ -1,0 +1,11 @@
+{
+  "name": "9a1ccde9-e2a4-470d-aaa0-d8af1736dd16",
+  "displayName": "billing.invoice.download",
+  "priority": 500000,
+  "labels": [ {
+    "key": "sys-head",
+    "value": "sys-head"
+  } ],
+  "description": "Ez a szándék aktiválódik ha a felhasználó arról kérdez, hogy hol és hogyan tudja letölteni a számláit.",
+  "numTrainingPhrases": 7
+}

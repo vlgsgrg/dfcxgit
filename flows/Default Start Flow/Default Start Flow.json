@@ -1,0 +1,85 @@
+{
+  "name": "00000000-0000-0000-0000-000000000000",
+  "displayName": "Default Start Flow",
+  "description": "A start flow created along with the agent",
+  "transitionRoutes": [ {
+    "intent": "billing.overdue",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Számla tartozás" ]
+        },
+        "languageCode": "hu"
+      } ]
+    },
+    "name": "62a41ba3-6f1a-4459-8097-fce94063aa50"
+  }, {
+    "intent": "billing.general",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Számlázás általános" ]
+        },
+        "languageCode": "hu"
+      } ]
+    },
+    "name": "8f3a0727-be57-4ed4-a934-770dca76181d"
+  }, {
+    "intent": "Default Welcome Intent",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Szia! Hogy vagy?", "Helló! Miben segíthetek?", "Szép napot! Mit tehetek ma érted?", "Üdvözöllek! Hogyan segíthetek?" ]
+        },
+        "languageCode": "hu"
+      } ]
+    },
+    "name": "74d454f3-ebbf-422d-8f03-dbfa08348600"
+  }, {
+    "intent": "billing.invoice.download",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "számla letöltés" ]
+        },
+        "languageCode": "hu"
+      } ]
+    },
+    "name": "f9d51e53-6be8-451e-ac51-13005cc629f7"
+  } ],
+  "eventHandlers": [ {
+    "event": "sys.no-match-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Ezt nem értem. El tudod mondani még egyszer?", "Nem értettem, amit mondtál. Mi volt az?", "Elnézést, elmondanád még egyszer?", "Elnézést, elmondanád még egyszer?", "El tudnád ezt újra mondani?", "Elnézést, ezt nem értem. Át tudod fogalmazni?", "Elnézést, mi volt ez?", "Még egyszer?", "Mi volt az?", "Mondd ezt még egyszer?", "Ezt nem értem. Megismételnéd?", "Lemaradtam, mondod még egyszer?" ]
+        },
+        "languageCode": "hu"
+      } ]
+    },
+    "name": "2affb69d-e73e-4784-8793-f22a008bfc75"
+  }, {
+    "event": "sys.no-input-default",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Ezt nem értem. El tudod mondani még egyszer?", "Nem értettem, amit mondtál. Mi volt az?", "Elnézést, elmondanád még egyszer?", "Elnézést, elmondanád még egyszer?", "El tudnád ezt újra mondani?", "Elnézést, ezt nem értem. Át tudod fogalmazni?", "Elnézést, mi volt ez?", "Még egyszer?", "Mi volt az?", "Mondd ezt még egyszer?", "Ezt nem értem. Megismételnéd?", "Lemaradtam, mondod még egyszer?" ]
+        },
+        "languageCode": "hu"
+      } ]
+    },
+    "name": "cd69f39d-0cfc-4093-8875-993257a2d543"
+  } ],
+  "nluSettings": {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.30000001,
+    "modelTrainingMode": "MODEL_TRAINING_MODE_AUTOMATIC"
+  },
+  "nluSettingsList": [ {
+    "modelType": "MODEL_TYPE_ADVANCED",
+    "classificationThreshold": 0.69999999,
+    "modelTrainingMode": "MODEL_TRAINING_MODE_AUTOMATIC",
+    "customConfigKey": "40174949-2f95-4bc4-9511-9d59d7d879e7",
+    "languageCode": "hu"
+  } ]
+}

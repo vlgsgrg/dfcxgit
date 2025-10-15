@@ -1,0 +1,64 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "számla",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "a számla részleteire vagyok kíváncsi"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "kérdésem van a számlámmal kapcsolatban"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "számlámról érdeklődnék",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "számla ügyben vagyok itt",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "számlázásról",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "számlázás",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "számlázással kapcsolatban van kérdésem",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  }, {
+    "parts": [ {
+      "text": "számlázási kérdésem lenne",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "hu"
+  } ]
+}

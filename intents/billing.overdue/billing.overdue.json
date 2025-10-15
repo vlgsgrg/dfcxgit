@@ -1,0 +1,11 @@
+{
+  "name": "d649ccaf-d704-47f7-bbfe-f905d54639db",
+  "displayName": "billing.overdue",
+  "priority": 500000,
+  "labels": [ {
+    "key": "sys-head",
+    "value": "sys-head"
+  } ],
+  "description": "Ez a szándék aktiválódik ha a felhasználó a tartozásáról, lejárt számláiról érdeklődik",
+  "numTrainingPhrases": 10
+}
