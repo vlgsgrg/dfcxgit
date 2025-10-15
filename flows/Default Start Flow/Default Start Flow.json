@@ -7,7 +7,7 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "Számla tartozás új" ]
+          "text": [ "Számla tartozás új új" ]
         },
         "languageCode": "hu"
       } ]
@@ -79,7 +79,6 @@
     "modelType": "MODEL_TYPE_ADVANCED",
     "classificationThreshold": 0.69999999,
     "modelTrainingMode": "MODEL_TRAINING_MODE_AUTOMATIC",
-    "customConfigKey": "40174949-2f95-4bc4-9511-9d59d7d879e7",
     "languageCode": "hu"
   } ]
 }
