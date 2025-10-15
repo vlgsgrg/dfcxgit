@@ -18,7 +18,7 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "Számlázás általános" ]
+          "text": [ "Számlázás általános kérdés" ]
         },
         "languageCode": "hu"
       } ]
