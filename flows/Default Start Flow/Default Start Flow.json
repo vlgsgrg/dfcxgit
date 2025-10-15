@@ -7,7 +7,7 @@
     "triggerFulfillment": {
       "messages": [ {
         "text": {
-          "text": [ "Számla tartozás" ]
+          "text": [ "Számla tartozás új" ]
         },
         "languageCode": "hu"
       } ]
